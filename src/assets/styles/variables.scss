@@ -1,0 +1,35 @@
+// 全局 CSS 变量
+:root {
+  // 主色
+  --dt-primary: #409eff;
+  --dt-success: #67c23a;
+  --dt-warning: #e6a23c;
+  --dt-danger: #f56c6c;
+  --dt-info: #909399;
+
+  // 布局尺寸
+  --dt-sidebar-width: 210px;
+  --dt-sidebar-collapsed-width: 64px;
+  --dt-header-height: 60px;
+  --dt-tabs-height: 40px;
+  --dt-footer-height: 40px;
+
+  // 颜色
+  --dt-bg-color: #f0f2f5;
+  --dt-sidebar-bg: #304156;
+  --dt-sidebar-text: #bfcbd9;
+  --dt-sidebar-active-bg: #263445;
+  --dt-sidebar-active-text: #409eff;
+
+  // 字体
+  --dt-font-size-base: 14px;
+  --dt-font-size-sm: 12px;
+  --dt-font-size-lg: 16px;
+
+  // 圆角
+  --dt-border-radius-base: 4px;
+  --dt-border-radius-sm: 2px;
+
+  // 阴影
+  --dt-box-shadow-base: 0 2px 12px 0 rgba(0, 0, 0, 0.1);
+}
